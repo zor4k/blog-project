@@ -1,0 +1,9 @@
+[submodule "blog-api"]
+	path = blog-api
+	url = https://github.com/zor4k/blog-api
+[submodule "blog-app"]
+	path = blog-app
+	url = https://github.com/zor4k/blog-app
+[submodule "blog-k8s-cluster"]
+	path = blog-k8s-cluster
+	url = https://github.com/zor4k/blog-k8s-cluster
